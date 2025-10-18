@@ -14,7 +14,7 @@ class Grimsgore:
         self.name = "Grimsgore"
         self.telegram = "@GRLMSGORE"
         self.discord = "@grimsgore"
-        self.interests = ["Bot Development", "Security", "Privacy"]
+        self.interests = ["Bot Development", "Security", "Privacy", "Automation"]
 ```
 
 ## 🕸️ Current Contact Information
@@ -30,9 +30,9 @@ contact_info = {
 ```python
 tech_stack = {
     "languages": ["Python", "C++", "C", "HTML", "JavaScript"],
-    "frameworks": ["discord.py"],
+    "frameworks": ["discord.py", "PyQt5", "FastAPI", "asyncio", "aiohttp", "NumPy", "BeautifulSoup", "Selenium"]
     "focus": ["Security", "Privacy", "Automation"],
-    "platforms": ["Windows", "Linux"]
+    "platforms": ["Windows"]
 }
 ```
 
