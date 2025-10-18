@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=grims-gore&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  
-  [![Telegram]([[https://img.shields.io/badge/Telegram-Channel-blueviolet?style=flat-square&logo=telegram](https://img.shields.io/badge/Telegram-blueviolet?style=flat-square&logo=telegram](https://img.shields.io/badge/Telegram-7289DA?style=flat-square&logo=telegram)))](https://t.me/GRLMSGORE)
-  [![Discord]([https://img.shields.io/badge/Telegram-Personal-7289DA?style=flat-square&logo=telegram](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord))]([https://t.me/eatmyinsides](https://discord.com/users/184775526488080384))
+![views](https://komarev.com/ghpvc/?username=grims-gore&style=flat-square&color=blueviolet)
+
+[![Telegram](https://img.shields.io/badge/Telegram-7289DA?style=flat-square&logo=telegram)](https://t.me/GRLMSGORE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord)](https://discord.com/users/184775526488080384)
+
 </div>
 
 ## 🕸️ About Me
