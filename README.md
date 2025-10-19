@@ -20,7 +20,7 @@ class Grimsgore:
 ## 💻 Tech Stack
 ```python
 tech_stack = {
-    "languages": ["Python", "JavaScript", "C++", "JavaScript", "C#", "HTML", "CSS"],
+    "languages": ["Python", "JavaScript", "C++", "C#", "HTML", "CSS"],
     "platform": ["Windows"],
     "focus": ["Automation", "Security", "Bot Development", "Privacy"]
 }
